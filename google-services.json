@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064144026347",
+    "project_id": "janaushadifinder-1ffe5",
+    "storage_bucket": "janaushadifinder-1ffe5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064144026347:android:1f23d5d64027a6910bdcae",
+        "android_client_info": {
+          "package_name": "com.example.janaushadifinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu_75lC5N8qA5-iQYtaxZWWJwp6ev9dwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
